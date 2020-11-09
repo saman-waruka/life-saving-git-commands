@@ -1,0 +1,3 @@
+let say- asdfdsf adsdsd ssfdsf
+Fix wrong commit message  
+git commit --amend -m "right commit message"
